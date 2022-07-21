@@ -7,3 +7,5 @@ This is an example of following the iOS practice on Fast Campus.<br>
 [- 3장 계산기 앱 만들기](https://github.com/Imguma/FastCampus_iOS_Practice/tree/main/Part%201.%20Basic/Calculator)<br>
 [- 4장 To-Do List 앱 만들기](https://github.com/Imguma/FastCampus_iOS_Practice/tree/main/Part%201.%20Basic/TodoList)<br>
 ***
+### PART 2 Intermediate<br>
+***
